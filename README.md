@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Hi, I’m @parth-faldu<br>👀 I’m passionate about web development, working on MERN stack projects, freelancing, and solving challenges through coding.<br>🌱 I’m currently mastering the MERN stack and refining my full-stack development expertise.<br>💞️ I’m eager to collaborate on innovative web applications, exciting tech projects, and open-source contributions.<br>📫 Let’s connect: parthfaldu123@gmail.com | [LinkedIn](https://www.linkedin.com/in/parth-faldu-5780792a2/)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Coding, gaming, and music aren’t just hobbies—they’re my superpower for staying creative and productive!<br><br>
+👋 Hi, I’m @parth-faldu<br>👀 I’m passionate about web development, working on MERN stack projects, freelancing, and solving challenges through coding.<br>🌱 I’m currently mastering the MERN stack and refining my full-stack development expertise.<br>💞️ I’m eager to collaborate on innovative web applications, exciting tech projects, and open-source contributions.<br>📫 Let’s connect: [G-mail]parthfaldu123@gmail.com | [LinkedIn](https://www.linkedin.com/in/parth-faldu-5780792a2/)<br>😄 Pronouns: He/Him<br>⚡ Fun fact: Coding, gaming, and music aren’t just hobbies—they’re my superpower for staying creative and productive!<br><br>
 
 
 ## 🌐 Socials:
@@ -13,4 +13,4 @@
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=parth-faldu&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=parth-faldu&icon=0&color=0)](https://visitcount.itsvg.in)
+![Visitors](https://komarev.com/ghpvc/?username=parth-faldu)
